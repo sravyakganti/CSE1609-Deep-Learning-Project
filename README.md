@@ -1,0 +1,2 @@
+# CSE1609-Deep-Learning-Project
+The project demomstrates how well a CNN model can forecast skin conditions. The technology provides a useful tool for people all around the world, enabling early detection without a physician's consultation. The application's ease of use and compatibility with devices with modest system specifications are ensured by the use of free tools and a straightforward interface.Success in implementing deep learning and image processing algorithms has opened the door for more developments in the field of medical diagnostics.
